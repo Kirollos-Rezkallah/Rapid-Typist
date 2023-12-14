@@ -12,7 +12,7 @@ body {
 }
 
 body .quote-input {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .container {
@@ -30,6 +30,22 @@ body .quote-input {
     color: #f0db4f;
     font-weight: bold;
 }
+
+.footer {
+    position: absolute;
+    text-align: center;
+    bottom: 2rem;
+    font-size: 1rem;
+    color: #f0db4f;
+    font-weight: bold;
+}
+
+.footer a {
+    color: #44c0cb;
+    text-decoration: none;
+}
+
+
 
 .quote-display {
     margin-bottom: 1rem;
