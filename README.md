@@ -26,3 +26,7 @@ Speed Typing Game is a simple computer application designed to test and improve 
    Alternatively, you can clone the repository:
    ```bash
    git clone "https://github.com/Kirollos-Rezkallah/Rapid-Typist"
+
+## Note
+
+If the timer is not shown and the app isn't working, try using a VPN because the API may not be loaded in your region.
