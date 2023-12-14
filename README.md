@@ -2,7 +2,7 @@
 
 ## Overview
 
-Speed Typing Game is a simple computer application designed to test and improve your typing speed. It's a non-responsive web app created as a JavaScript practice project, covering concepts like DOM manipulation.
+Speed Typing Game is a simple computer application designed to test and improve your typing speed. It's a responsive web app created as a JavaScript practice project, covering concepts like DOM manipulation.
 
 ## Features
 
