@@ -20,9 +20,9 @@ Speed Typing Game is a simple computer application designed to test and improve 
 ## How to Use
 
 1. **Visit the Website:**
-   To explore the Rapid Typist, <a href="">click here</a>.
+   To explore the Rapid Typist, <a href="https://kirollos-rezkallah.github.io/Rapid-Typist/">click here</a>.
 
 2. **Clone the Repository:**
    Alternatively, you can clone the repository:
    ```bash
-   git clone ""
+   git clone "https://kirollos-rezkallah.github.io/Rapid-Typist/"
