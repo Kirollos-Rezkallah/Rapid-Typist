@@ -25,4 +25,4 @@ Speed Typing Game is a simple computer application designed to test and improve 
 2. **Clone the Repository:**
    Alternatively, you can clone the repository:
    ```bash
-   git clone "https://kirollos-rezkallah.github.io/Rapid-Typist/"
+   git clone "https://github.com/Kirollos-Rezkallah/Rapid-Typist"
